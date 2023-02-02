@@ -1,0 +1,16 @@
+img{
+    height: 400px;width: 300
+    ;
+}
+
+#poster {
+    max-width: 50px;
+    max-height: 50px;
+}
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
